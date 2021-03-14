@@ -72,7 +72,7 @@ Thumbs.db
 *.exe
 
 CMakeLists.txt.user
-cmake-build-debug/*
+cmake-build-debug*
 build/*
 .vscode/*
 .idea
